@@ -2,7 +2,7 @@
 ## Flask Authentication project
 
 Flask Authentication project firstly we used to basic Authentication and then we can
-Flask-login.after login we are going to dashboard.in thi dashboard we are make a 
+Flask-login.after login we are going to dashboard.in this dashboard we are make a 
 api and list the  post.and click the post/id going to post details page. 
 
 
